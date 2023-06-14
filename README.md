@@ -1,4 +1,7 @@
 # NGINX-based Media Streaming Server
+This is FlexiGroBots specific fork of the repository. 
+See details at:
+[FlexiGroBots Notes](FLEXIGROBOTS.md)
 ## nginx-rtmp-module
 
 
