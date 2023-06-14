@@ -5,5 +5,5 @@ AI servive that does object detection for the image stream
 
 # Notes
 
-Likely point to inject frame extraction and sending at line 872 at nginx-rtmp-module/ngx_rtmp_record_module.c
+Likely point to inject frame extraction and sending at line 872 at [ngx_rtmp_record_module](ngx_rtmp_record_module.c)
 at function "ngx_rtmp_record_write_frame"
